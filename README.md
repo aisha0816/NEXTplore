@@ -1,16 +1,29 @@
-# React + Vite
+# NEXTplore
+Career exploration, built for NEXTies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NEXTplore is a cross-platform career exploration application designed exclusively for learners at NEXT School. It helps learners explore different career pathways based on their interests, strengths, subjects, skills, and areas of curiosity.
 
-Currently, two official plugins are available:
+Rather than functioning as a traditional aptitude test that gives learners a single "best career," NEXTplore presents a range of possible directions and allows learners to explore where each pathway could lead.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Explore different career fields and pathways
+- Discover careers connected to different interests and subjects
+- Compare multiple possible pathways
+- View information about potential careers
+- Save and revisit interesting pathways
+- Personalise exploration based on individual interests and preferences
+- Responsive interface designed for laptops, tablets, and mobile devices
+- Cross-platform application that can be downloaded and used across devices
 
-## React Compiler
+## Target Audience
+NEXTplore is designed exclusively for NEXT School learners ("NEXTies") who are exploring possible academic and career directions. The application is intended to support exploration and decision-making without limiting learners to a single predetermined career.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technology
+The application is being developed using:
+- JavaScript - core application logic and interactivity
+- React - user interface and component-based development
+- Vite - development and build tooling
+- HTML & CSS - structure, styling, and responsive design
+- PWA - installable web application functionality
+- Tauri - cross-platform application packaging
+- Git & GitHub - version control and project management
